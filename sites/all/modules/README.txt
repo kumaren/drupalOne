@@ -3,6 +3,9 @@ Drupal core in this directory to ensure clean separation from core modules and
 to facilitate safe, self-contained code updates. Contributed modules from the
 Drupal community may be downloaded at http://drupal.org/project/modules.
 
+hello
+
+
 It is safe to organize modules into subdirectories, such as "contrib" for
 contributed modules, and "custom" for custom modules. Note that if you move a
 module to a subdirectory after it has been enabled, you may need to clear the
