@@ -1,4 +1,3 @@
-
 CONTENTS OF THIS FILE
 ---------------------
 
@@ -381,6 +380,8 @@ configuration, see step 6 above.
 
 MORE INFORMATION
 ----------------
+
+
 
 - See the Drupal.org online documentation:
   http://drupal.org/documentation
